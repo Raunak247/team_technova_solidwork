@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# ML
+*.pt
+runs/
+outputs/
+*.csv
+
+# OS
+.DS_Store
+Thumbs.db
